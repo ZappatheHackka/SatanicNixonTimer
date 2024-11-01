@@ -1,0 +1,11 @@
+# Ignore virtual environment directories
+.venv/
+env/
+.env
+
+# Ignore specific project directories
+The Orthogonian Labor Timer/
+The Orthogonian Labor Timerv2/
+
+# Ignore specific files
+main.spec
